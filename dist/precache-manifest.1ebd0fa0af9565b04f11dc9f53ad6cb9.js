@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab71bc2e27f2eccf37e69421f0d29799",
+    "revision": "6e338b0452aaca01a8e211b52f883060",
     "url": "index.html"
   },
   {
-    "revision": "7cfd12789a69240de6e7",
-    "url": "static/css/app.e7c76fc321bdd82353c97c1a35aef352.css"
+    "revision": "afa4751ee7590cc79d62",
+    "url": "static/css/app.87db281bae82906a2d00a12445fb8fd9.css"
   },
   {
     "revision": "d09663e1b7c784cf9463b9370ebdc58e",
@@ -48,13 +48,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/img/spells.1c0ce72.png"
   },
   {
-    "url": "static/js/app.7cfd12789a69240de6e7.js"
+    "url": "static/js/app.afa4751ee7590cc79d62.js"
   },
   {
     "url": "static/js/manifest.37a2ecbb1d1b7e6c9ada.js"
   },
   {
-    "url": "static/js/vendor.3550ddae043b93d52df2.js"
+    "url": "static/js/vendor.7ae39b7236de1367e6a7.js"
   },
   {
     "revision": "3d44cd1af3bd4b22f3644fab912a43b0",
