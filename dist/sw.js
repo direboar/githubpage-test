@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.b65bd4036003d853ee8dfd35f7f8962d.js"
+  "precache-manifest.1bd22ede7eacaf60c8985781bfc3d26c.js"
 );
 
 workbox.core.skipWaiting();
@@ -28,5 +28,3 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
-
-workbox.routing.registerRoute("/embriosupport-dev-page/dist/#/.*", new workbox.strategies.NetworkFirst(), 'GET');
