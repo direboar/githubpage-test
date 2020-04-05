@@ -28,3 +28,5 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+
+workbox.routing.registerRoute("https://direboar.github.io/.*", new workbox.strategies.NetworkFirst(), 'GET');
