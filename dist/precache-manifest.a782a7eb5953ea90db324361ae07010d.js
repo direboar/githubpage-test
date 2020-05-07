@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72da0b4125a002b6a25b9915a3b210c2",
+    "revision": "e04362559fcfffe9c55bb549ffd84516",
     "url": "index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/SRD_MonstarDataUdonarium.1.0.zip"
   },
   {
-    "revision": "1734df2abc65f68f620d",
-    "url": "static/css/app.2a821153efb33325170b5badba6b7925.css"
+    "revision": "c65964fe499ac6cb837c",
+    "url": "static/css/app.2e7adb903fd781eee4f5462b09844f9f.css"
   },
   {
     "revision": "d09663e1b7c784cf9463b9370ebdc58e",
@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/images/icons/icon-96x96.png"
   },
   {
-    "revision": "b9be7e36ff670b907d8ef25168a168d4",
-    "url": "static/images/udonarium/chatpallette1.png"
-  },
-  {
     "revision": "d32cb385a6b941d13614b6f4c241565d",
     "url": "static/images/udonarium/monstars.png"
   },
@@ -60,16 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/img/spells.1c0ce72.png"
   },
   {
-    "url": "static/js/app.1734df2abc65f68f620d.js"
+    "url": "static/js/app.c65964fe499ac6cb837c.js"
   },
   {
     "url": "static/js/manifest.37a2ecbb1d1b7e6c9ada.js"
   },
   {
-    "url": "static/js/vendor.7ae39b7236de1367e6a7.js"
+    "url": "static/js/vendor.dd6c39a21a4c1bddc59c.js"
   },
   {
     "revision": "b459e3793a02059d0538c3173a53ed57",
     "url": "static/manifest.json"
+  },
+  {
+    "revision": "b9be7e36ff670b907d8ef25168a168d4",
+    "url": "static/udonarium/chatpallette1.png"
   }
 ]);
