@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e04362559fcfffe9c55bb549ffd84516",
+    "revision": "75cfb4ef4080f5c9e449944472a0cad0",
     "url": "index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/SRD_MonstarDataUdonarium.1.0.zip"
   },
   {
-    "revision": "c65964fe499ac6cb837c",
-    "url": "static/css/app.2e7adb903fd781eee4f5462b09844f9f.css"
+    "revision": "515eeefe318030fa4336",
+    "url": "static/css/app.3d7801eca20fad2fa8eab8e11c9814ba.css"
   },
   {
     "revision": "d09663e1b7c784cf9463b9370ebdc58e",
@@ -44,6 +44,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/images/icons/icon-96x96.png"
   },
   {
+    "revision": "29aebc44387d2c17f97f74fe02b8bed4",
+    "url": "static/images/udonarium/dragon-1.png"
+  },
+  {
+    "revision": "e155d6ecf5a6f1f8fa827d03d0daa3c6",
+    "url": "static/images/udonarium/dragon-2.png"
+  },
+  {
     "revision": "d32cb385a6b941d13614b6f4c241565d",
     "url": "static/images/udonarium/monstars.png"
   },
@@ -56,20 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/img/spells.1c0ce72.png"
   },
   {
-    "url": "static/js/app.c65964fe499ac6cb837c.js"
+    "url": "static/js/app.515eeefe318030fa4336.js"
   },
   {
     "url": "static/js/manifest.37a2ecbb1d1b7e6c9ada.js"
   },
   {
-    "url": "static/js/vendor.dd6c39a21a4c1bddc59c.js"
+    "url": "static/js/vendor.b2826defe883bc0439ff.js"
   },
   {
     "revision": "b459e3793a02059d0538c3173a53ed57",
     "url": "static/manifest.json"
-  },
-  {
-    "revision": "b9be7e36ff670b907d8ef25168a168d4",
-    "url": "static/udonarium/chatpallette1.png"
   }
 ]);
