@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0835193f2268e26be83455fad86a2cec",
+    "revision": "7944455e9c3397d6f721953a0f50efc2",
     "url": "index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/SRD_MonstarDataUdonarium.1.0.1.zip"
   },
   {
-    "revision": "9a31321b4ca750dddacc",
-    "url": "static/css/app.37799b4506067bf1fb45fa36a58a88e9.css"
+    "revision": "ba01b865d617b53ac4a0",
+    "url": "static/css/app.8e6d01a6784e4c6bead46601ae518dc8.css"
   },
   {
     "revision": "d09663e1b7c784cf9463b9370ebdc58e",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/images/icons/icon-96x96.png"
   },
   {
+    "revision": "dfec6e626a8a02062fd8721995fcbeef",
+    "url": "static/images/udonarium/character.png"
+  },
+  {
     "revision": "29aebc44387d2c17f97f74fe02b8bed4",
     "url": "static/images/udonarium/dragon-1.png"
   },
@@ -56,15 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/images/udonarium/monstars.png"
   },
   {
-    "revision": "79493a8bc7a20734f6c1a54b00601e90",
-    "url": "static/img/ability.79493a8.png"
-  },
-  {
-    "revision": "1c0ce72c1869b374273b056b16fc318f",
-    "url": "static/img/spells.1c0ce72.png"
-  },
-  {
-    "url": "static/js/app.9a31321b4ca750dddacc.js"
+    "url": "static/js/app.ba01b865d617b53ac4a0.js"
   },
   {
     "url": "static/js/manifest.37a2ecbb1d1b7e6c9ada.js"
