@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "index.html"
   },
   {
-    "revision": "66a2dd6d2a1d0b88789e5666a066bf47",
+    "revision": "28b08e95cb9a7ac21a032bb427056f08",
     "url": "static/SRD_MonstarDataUdonarium.1.0.2.zip"
   },
   {
