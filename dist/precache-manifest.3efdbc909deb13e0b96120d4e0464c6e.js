@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4dd0821d8b430b8bc9ff95f067f50bf",
+    "revision": "5e6aff794c7d8213dac3bec1460916d1",
     "url": "index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/SRD_MonstarDataUdonarium.1.0.3.zip"
   },
   {
-    "revision": "8f98aa15da7e6818742f",
+    "revision": "1e4e2944ef24ef975e68",
     "url": "static/css/app.8e6d01a6784e4c6bead46601ae518dc8.css"
   },
   {
@@ -60,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/images/udonarium/monstars.png"
   },
   {
-    "url": "static/js/app.8f98aa15da7e6818742f.js"
+    "url": "static/js/app.1e4e2944ef24ef975e68.js"
   },
   {
     "url": "static/js/manifest.37a2ecbb1d1b7e6c9ada.js"
